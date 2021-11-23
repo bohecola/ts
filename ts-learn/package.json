@@ -1,0 +1,27 @@
+{
+  "name": "ts-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bohecola/ts-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bohecola/ts-learn/issues"
+  },
+  "homepage": "https://github.com/bohecola/ts-learn#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.9",
+    "tslib": "^2.3.1"
+  }
+}
